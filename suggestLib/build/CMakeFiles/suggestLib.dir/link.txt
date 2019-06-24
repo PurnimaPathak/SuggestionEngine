@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libsuggestLib.a  CMakeFiles/suggestLib.dir/main.cpp.o CMakeFiles/suggestLib.dir/suggestLib.cpp.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libsuggestLib.a

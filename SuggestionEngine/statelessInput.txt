@@ -1,0 +1,4 @@
+bat
+Bat
+bark
+bar

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/purnima/CLionProjects/Stateless/SuggestionEngine/main.cpp
+suggestLib.h
+/Users/purnima/CLionProjects/Stateless/SuggestionEngine/suggestLib.h
+signal.h
+-
+zconf.h
+-
+
+/Users/purnima/Library/Frameworks/suggestLib/include/suggestLib.h
+iostream
+-
+fstream
+-
+iterator
+-
+unordered_map
+-
+vector
+-
+regex
+-
+sstream
+-
+iostream
+-
+cstring
+-
+
